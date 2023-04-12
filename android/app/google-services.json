@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548922569982",
+    "project_id": "didi-11290",
+    "storage_bucket": "didi-11290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548922569982:android:9d4a8d10c441da170721af",
+        "android_client_info": {
+          "package_name": "com.example.didi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548922569982-r2dkn5hch9p4do2s9qb8grdkv5q6eeet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzCQP3jtHZGDOHCKR0gPfgWA60VpAJC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548922569982-r2dkn5hch9p4do2s9qb8grdkv5q6eeet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
